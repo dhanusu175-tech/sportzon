@@ -1,0 +1,10 @@
+{
+  "name": "SPORTZON",
+  "short_name": "SPORTZON",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#155EEF",
+  "description": "SPORTZON sports shopping app",
+  "orientation": "portrait-primary"
+}
